@@ -4,6 +4,8 @@ I am a full-stack software engineer 👨‍💻 with 4 years of industry experie
 Currently experienced in 🥇 Javascript, 🥇Node.js, 🥇ReactJs,🥇typescript,🥇React native, 🥇MongoDB, 🥇AWS, and 🥇Jenkins. 
 Strong engineering professional 👨‍💻 with a 🎓 BSc.Engineering degree specializing in Computer Engineering from the University of Peradeniya 🎓. A well-trained and a fan of solid product engineering processes/practices 👨‍🔧.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmilaWeerasinghe&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+
 Apart from being a full-stack engineer, I am interested in optimizations and parallel computing because there is always room for improvement 🚀.
 
 - 🔭 I’m currently working on my research and projects.
