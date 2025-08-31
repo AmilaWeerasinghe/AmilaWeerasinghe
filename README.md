@@ -1,6 +1,6 @@
 ### Hi there ! I'm Amila 👋
 
-I am a full-stack software engineer 👨‍💻 with 4 years of industry experience .
+I am a full-stack software engineer 👨‍💻 with over 4 years of industry experience .
 Currently experienced in 🥇 Javascript, 🥇Node.js, 🥇ReactJs,🥇typescript,🥇React native, 🥇MongoDB, 🥇AWS, and 🥇Jenkins. 
 Strong engineering professional 👨‍💻 with a 🎓 BSc.Engineering degree specializing in Computer Engineering from the University of Peradeniya 🎓. A well-trained and a fan of solid product engineering processes/practices 👨‍🔧.
 
